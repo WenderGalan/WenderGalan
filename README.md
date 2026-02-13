@@ -14,8 +14,3 @@
     
 Nerd stats: 
 [sourcerer.io](https://sourcerer.io/wendergalan) | [codetrace.com](https://codetrace.com/users/WenderGalan)
-
-<p align="center"> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=wendergalan&hide=contribs" /></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendergalan&layout=compact" /></a>
-</p>
