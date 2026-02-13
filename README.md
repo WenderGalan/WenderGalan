@@ -8,9 +8,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wendergalam@gmail.com)](mailto:wendergalam@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:wendergalan2014@hotmail.com)](mailto:wendergalan2014@hotmail.com)
 
-    Olá meu nome é Wender Galan, sou desenvolvedor Fullstack com foco em back-end.
-    /
     Hello my name is Wender Galan, I'm a Fullstack developer with a focus on backend.
+    /
+    Olá meu nome é Wender Galan, sou desenvolvedor Fullstack com foco em back-end.
     
 Nerd stats: 
 [sourcerer.io](https://sourcerer.io/wendergalan) | [codetrace.com](https://codetrace.com/users/WenderGalan)
